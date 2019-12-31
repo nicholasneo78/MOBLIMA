@@ -1,0 +1,4 @@
+cineplexID,location,noOfCinemas,BasePrice in dollars,child discount in %,student discount in %,senior discount in %,ns discount in %,adult discount
+1,Bedok,3,10,0.5,0.2,0.3,0.1,0
+2,Tampines,3,9,0.4,0.1,0.2,0.15,0,
+3,Hougang,3,10,0.5,0.2,0.3,0.1,0

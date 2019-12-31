@@ -1,0 +1,25 @@
+﻿Transaction ID,Customer Name,Customer Email,Customer Phone No,Movie Title,Cineplex ID,Cinema ID,Transaction Amount,Quantity
+101201911081540,tan ah kaotanak@gmail.com,95231234,Joker,1,101,0.0,1
+302201911081548,tan ah kao,95231234,tanak@gmail.com,Joker,3,302,10.0,1
+302201911081624,si gina,87622345,siliaola@gmail.com,Joker,3,302,10.0,1
+102201911081626,si gina,87622345,siliaola@gmail.com,The Addams Family,1,102,10.0,1
+101201911081628,si gina,87622345,siliaola@gmail.com,Joker,1,101,10.0,1
+302201911081630,si gina,87622345,siliaola@gmail.com,Joker,3,302,32.0,1
+302201911081634,si gina,87622345,siliaola@gmail.com,Spider Man,3,302,10.0,1
+101201911081637,si gina,87622345,siliaola@gmail.com,Joker,1,101,10.0,1
+102201911081640,si gina,87622345,siliaola@gmail.com,Spider Man,1,102,32.0,1
+101201911111558,si gina,87622345,siliaola@gmail.com,Joker,1,101,10.0,1
+103201911112139,si gina,87622345,siliaola@gmail.com,Joker,1,103,42.0,2
+103201911112147,si gina,87622345,siliaola@gmail.com,Joker,1,103,20.0,2
+201201911122103,si gina,87622345,siliaola@gmail.com,Joker,2,201,9.0,1
+102201911122124,si gina,87622345,siliaola@gmail.com,The Godfather ,1,102,20.0,2
+102201911122140,si gina,87622345,siliaola@gmail.com,Gemini Man,1,102,30.0,3
+201201911122144,si gina,87622345,siliaola@gmail.com,Gemini Man,2,201,124.0,2
+201201911122201,si gina,87622345,siliaola@gmail.com,Joker,2,201,101.6,2
+101201911131118,si gina,87622345,siliaola@gmail.com,Charlie's Angel,1,101,60.0,2
+301201911131512,si gina,87622345,siliaola@gmail.com,Charlie's Angel,3,301,48.0,2
+101201911131750,si gina,87622345,siliaola@gmail.com,Joker,1,101,17.0,1
+103201911171245,si gina,87622345,siliaola@gmail.com,Joker,1,103,10.0,1
+103201911171426,si gina,87622345,siliaola@gmail.com,Joker,1,103,10.0,1
+101201911171429,si gina,87622345,siliaola@gmail.com,Gemini Man,1,101,16.0,1
+103201911172157,si gina,87622345,siliaola@gmail.com,Joker,1,103,10.0,1
